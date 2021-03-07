@@ -1,4 +1,4 @@
 public class Main {
-  String Fname = "Neil Patrick";
-  String Lname = "Buison";
+  String fname = "Neil Patrick";
+  String lname = "Buison";
 }
