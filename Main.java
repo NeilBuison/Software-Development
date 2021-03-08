@@ -12,6 +12,6 @@ public class Main{
   
   public static void main (String[]args){
     Main myObj = new Main();
-    System.out.println("First Person: " + myObj 
+    System.out.println("First Person: " + myObj.Fname1 + " " + myObject
     
     
